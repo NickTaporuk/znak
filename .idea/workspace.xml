@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e8cbcd7-ee51-42b6-bffb-ea4e627a66cd" name="Default" comment="" />
+    <ignored path="www.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test_chart_persentage_discrepancy.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flirchi/lib/tasks/rtg/test_chart_persentage_discrepancy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="84" column="0" selection-start="0" selection-end="3580" vertical-scroll-proportion="0.8333333" vertical-offset="882" max-vertical-offset="1638">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/sign/welcome.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="33" selection-start="803" selection-end="803" vertical-scroll-proportion="-11.333333" vertical-offset="108" max-vertical-offset="15714">
+              <folding>
+                <marker date="1410246468295" expanded="true" signature="5826:5893" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="partner.helper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flirchi/lib/helper/partner.helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="5" selection-start="1366" selection-end="1366" vertical-scroll-proportion="-6.4385967" vertical-offset="803" max-vertical-offset="2736">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sent.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/activity/notifications/sent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="1" selection-start="180" selection-end="180" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="234">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sent.view.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/activity/notifications/_view/sent.view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="28" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1314">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notify.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flirchi/lib/service/notify.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="16" selection-start="305" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="6156">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chart.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/lib/chart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="219" column="75" selection-start="8570" selection-end="8570" vertical-scroll-proportion="-15.296296" vertical-offset="3529" max-vertical-offset="12420">
+              <folding>
+                <marker date="1410251938088" expanded="true" signature="3081:3541" placeholder="..." />
+                <marker date="1410251938088" expanded="false" signature="3222:3286" placeholder="..." />
+                <marker date="1410251938088" expanded="true" signature="3287:3530" placeholder="..." />
+                <marker date="1410251938088" expanded="true" signature="7509:8071" placeholder="..." />
+                <marker date="1410251938088" expanded="false" signature="7650:7714" placeholder="..." />
+                <marker date="1410251938088" expanded="true" signature="7715:8048" placeholder="..." />
+                <marker date="1410251938088" expanded="true" signature="26698:27157" placeholder="..." />
+                <marker date="1410251938088" expanded="true" signature="26698:27032" placeholder="..." />
+                <marker date="1410251938088" expanded="true" signature="26807:26830" placeholder="{...}" />
+                <marker date="1410251938088" expanded="true" signature="26807:26830" placeholder="{...}" />
+                <marker date="1410251938088" expanded="true" signature="26836:26883" placeholder="{...}" />
+                <marker date="1410251938088" expanded="true" signature="26909:27146" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rtg.peer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flirchi/lib/model/rtg.peer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="168" column="25" selection-start="5563" selection-end="5563" vertical-scroll-proportion="-2.0" vertical-offset="2970" max-vertical-offset="5904">
+              <folding>
+                <marker date="1410196405731" expanded="true" signature="7237:7336" placeholder="SELECT DATE_..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/pixelsettings.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/_view/pixelsettings.js" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/_view/sub.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/helper/helper_partner_site.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/subs.css" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/partner.css" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/partners.css" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/_view/subs.js" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/web/public/system.js" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/sub.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/model/base/partner_sub.base.peer.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/mobile/actions/sign/welcome.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/_view/settings.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/settings.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/_view/subs.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/subs.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/partner.js" />
+        <option value="$PROJECT_DIR$/phlight/lib/app/config.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/partners.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/partials/partners.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partners.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/users.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/helper/user.helper.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/_view/users.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/_view/pixelsettings.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/layout/nad2.view.php" />
+        <option value="$PROJECT_DIR$/phlight/lib/app/application.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/messages/_view/index.private.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/messages/_view/index.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/messages/_view/index.js" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/ad/nad/index.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/mobile/layout/partials/counters.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/layout/partials/counters.top.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/layout/partials/counters.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/index.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/helper/nad2.helper.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/nad2.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/com/user.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/messages/index.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/index.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/index.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/tasks/rtg/test_char_persentage_discrepancy.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/model/partner.peer.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/model/rtg.peer.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/corp/lib/chart.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/sign/blue.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/sign/_view/blue.view.php" />
+        <option value="$PROJECT_DIR$/flirchi/apps/main/actions/sign/welcome.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/helper/partner.helper.php" />
+        <option value="$PROJECT_DIR$/flirchi/lib/tasks/rtg/test_chart_persentage_discrepancy.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phlight" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phlight" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phlight" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phlight" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flirchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flirchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flirchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flirchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="()" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpStorm-133.982" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flirchi/data/sql" />
+      <recent name="$PROJECT_DIR$/test_javascript/nginx" />
+      <recent name="$PROJECT_DIR$/flirchi/apps/main/web/public/images/land-select" />
+      <recent name="$PROJECT_DIR$/flirchi/apps/corp/config/app" />
+      <recent name="$PROJECT_DIR$/flirchi/apps/corp/actions/product" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e8cbcd7-ee51-42b6-bffb-ea4e627a66cd" name="Default" comment="" />
+      <created>1407939156933</created>
+      <updated>1407939156933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1920" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22407408" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25133404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/flirchi/apps/main/actions/messages/_view/index.js</url>
+          <line>136</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/flirchi/apps/vkapp/web/public/system.js</url>
+          <line>321</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/lib/helper/helper.php</url>
+          <line>144</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/main/actions/sign/welcome.php</url>
+          <line>109</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/main/actions/sign/welcome.php</url>
+          <line>110</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/main/actions/sign/welcome.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partners.php</url>
+          <line>104</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partners.php</url>
+          <line>124</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/main/actions/nad2.php</url>
+          <line>64</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/lib/model/base/nad2.base.peer.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/main/actions/nad2.php</url>
+          <line>40</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/apps/main/actions/messages/_view/index.private.view.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/flirchi/lib/helper/partner.helper.php</url>
+          <line>68</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/model/partner_settings.peer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="16" selection-start="776" selection-end="782" vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/model/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="336" column="27" selection-start="6696" selection-end="6696" vertical-scroll-proportion="0.3452381" vertical-offset="5787" max-vertical-offset="12366" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="782" column="1" selection-start="26349" selection-end="26349" vertical-scroll-proportion="0.0" vertical-offset="14076" max-vertical-offset="14184" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/partner/pixelsettings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="120" selection-start="1876" selection-end="1876" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="1206" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/nad2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="27" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.0" vertical-offset="666" max-vertical-offset="1674">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/helper/nad2.helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="695" column="101" selection-start="21819" selection-end="21823" vertical-scroll-proportion="0.0" vertical-offset="12137" max-vertical-offset="21492" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/cache/cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="27" selection-start="3395" selection-end="3395" vertical-scroll-proportion="0.26152304" vertical-offset="2169" max-vertical-offset="3186" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/nad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="24" selection-start="8865" selection-end="8865" vertical-scroll-proportion="0.4243655" vertical-offset="2858" max-vertical-offset="4554" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/messages/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="368" selection-end="399" vertical-scroll-proportion="0.2996159" vertical-offset="0" max-vertical-offset="9288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/com/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="9" selection-start="1679" selection-end="1679" vertical-scroll-proportion="0.0" vertical-offset="950" max-vertical-offset="33696" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/model/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="210" column="9" selection-start="5913" selection-end="5913" vertical-scroll-proportion="1.2425742" vertical-offset="2525" max-vertical-offset="7794" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/model/partner_expenses_peer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="25" selection-start="4934" selection-end="4946" vertical-scroll-proportion="0.0" vertical-offset="4516" max-vertical-offset="7308" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="42" selection-start="1506" selection-end="1506" vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="3186" />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/b5fdd44c/61b94281-4a22-4028-89c1-b46ee5934cac/znakomster..apps_stats_detailed">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108" />
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/tasks/rtg/online.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/tasks/rtg/talk_quality.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/config/app/production.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="505" column="65" selection-start="13721" selection-end="13734" vertical-scroll-proportion="0.81624365" vertical-offset="8286" max-vertical-offset="27216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/tasks/rtg/bg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="136" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1044" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="306" column="7" selection-start="11598" selection-end="11598" vertical-scroll-proportion="0.43186373" vertical-offset="5077" max-vertical-offset="11592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/model/partner.peer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="0" selection-start="1792" selection-end="2072" vertical-scroll-proportion="0.60565275" vertical-offset="972" max-vertical-offset="20178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/app/application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="9" selection-start="840" selection-end="840" vertical-scroll-proportion="0.21428572" vertical-offset="612" max-vertical-offset="1368" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="949" column="9" selection-start="27239" selection-end="27239" vertical-scroll-proportion="0.34168336" vertical-offset="16741" max-vertical-offset="18360" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/gearman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1677" column="20" selection-start="36688" selection-end="36688" vertical-scroll-proportion="0.34168336" vertical-offset="29845" max-vertical-offset="42318" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/model/base/rtg.base.peer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="33" selection-end="33" vertical-scroll-proportion="0.07214429" vertical-offset="0" max-vertical-offset="998" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/helper/tasks/cli_system_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="22" selection-start="1597" selection-end="1606" vertical-scroll-proportion="1.3196481" vertical-offset="0" max-vertical-offset="1584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/queue/gearman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="41" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.20821114" vertical-offset="849" max-vertical-offset="1872" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/tasks/rtg/get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="59" selection-start="104" selection-end="104" vertical-scroll-proportion="0.035190616" vertical-offset="0" max-vertical-offset="1023" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/ua/_view/index.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="63" selection-start="6274" selection-end="6315" vertical-scroll-proportion="0.0" vertical-offset="2538" max-vertical-offset="4086" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/sign/blue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/sign/_view/blue.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="255" column="51" selection-start="17465" selection-end="17465" vertical-scroll-proportion="0.0" vertical-offset="4264" max-vertical-offset="13122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/service/notify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="305" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="6156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/http/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="27" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.33266532" vertical-offset="1540" max-vertical-offset="2736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/app/controller/action.controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="39" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.6753507" vertical-offset="190" max-vertical-offset="1944">
+          <folding>
+            <element signature="e#3#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/activity/notifications/_view/sent.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="28" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1314">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/lib/chart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="219" column="75" selection-start="8570" selection-end="8570" vertical-scroll-proportion="-15.296296" vertical-offset="3529" max-vertical-offset="12420">
+          <folding>
+            <marker date="1410251938088" expanded="true" signature="3081:3541" placeholder="..." />
+            <marker date="1410251938088" expanded="false" signature="3222:3286" placeholder="..." />
+            <marker date="1410251938088" expanded="true" signature="3287:3530" placeholder="..." />
+            <marker date="1410251938088" expanded="true" signature="7509:8071" placeholder="..." />
+            <marker date="1410251938088" expanded="false" signature="7650:7714" placeholder="..." />
+            <marker date="1410251938088" expanded="true" signature="7715:8048" placeholder="..." />
+            <marker date="1410251938088" expanded="true" signature="26698:27157" placeholder="..." />
+            <marker date="1410251938088" expanded="true" signature="26698:27032" placeholder="..." />
+            <marker date="1410251938088" expanded="true" signature="26807:26830" placeholder="{...}" />
+            <marker date="1410251938088" expanded="true" signature="26807:26830" placeholder="{...}" />
+            <marker date="1410251938088" expanded="true" signature="26836:26883" placeholder="{...}" />
+            <marker date="1410251938088" expanded="true" signature="26909:27146" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/model/rtg.peer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="25" selection-start="5563" selection-end="5563" vertical-scroll-proportion="-2.0" vertical-offset="2970" max-vertical-offset="5904">
+          <folding>
+            <marker date="1410196405731" expanded="true" signature="7237:7336" placeholder="SELECT DATE_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/layout/partials/context.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/apps/_view/retention.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="721" selection-end="721" vertical-scroll-proportion="0.52380955" vertical-offset="0" max-vertical-offset="756">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/i18n/_view/index.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="16" selection-start="1733" selection-end="1733" vertical-scroll-proportion="0.72678334" vertical-offset="0" max-vertical-offset="743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/helper/partner.helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="5" selection-start="1366" selection-end="1366" vertical-scroll-proportion="-6.4385967" vertical-offset="803" max-vertical-offset="2736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/corp/actions/product/activity/notifications/sent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="180" selection-end="180" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/apps/main/actions/sign/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="803" selection-end="803" vertical-scroll-proportion="-11.333333" vertical-offset="108" max-vertical-offset="15714">
+          <folding>
+            <marker date="1410246468295" expanded="true" signature="5826:5893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/tasks/system_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="5" selection-end="5" vertical-scroll-proportion="0.071428575" vertical-offset="0" max-vertical-offset="1026">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/tasks/compile/static_new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="32" selection-start="3043" selection-end="3043" vertical-scroll-proportion="-0.23809524" vertical-offset="1944" max-vertical-offset="4806">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/tasks/compile/static.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.6621804" vertical-offset="4207" max-vertical-offset="4950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/tasks/compile/nginx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="736" selection-end="746" vertical-scroll-proportion="0.5952381" vertical-offset="0" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/app/autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="25" selection-start="623" selection-end="635" vertical-scroll-proportion="-1.6666666" vertical-offset="1782" max-vertical-offset="2538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phlight/lib/tasks/compile/load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="308" selection-end="308" vertical-scroll-proportion="0.23809524" vertical-offset="0" max-vertical-offset="756">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flirchi/lib/tasks/rtg/test_chart_persentage_discrepancy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="0" selection-start="0" selection-end="3580" vertical-scroll-proportion="0.8333333" vertical-offset="882" max-vertical-offset="1638">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
