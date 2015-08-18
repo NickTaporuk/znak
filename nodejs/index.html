@@ -41,7 +41,6 @@
             var data = {};
             data.from       = $('.from').val();
             data.to         = $('.to').val();
-            data.to         = $('.to').val();
             data.message    = $('#m').val();
             socket.emit('chat message',data );
             $('#m').val('');
